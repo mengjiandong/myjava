@@ -1,0 +1,18 @@
+package com.mjd.logtest;
+
+public class testlogger{
+	private org.apache.log4j.Logger logger =
+			org.apache.log4j.Logger.getLogger(getClass());
+	
+	private org.slf4j.impl.Log4jLoggerFactory log4j = 
+			org.slf4j.LoggerFactory.getLogger(getClass())
+	
+	public void testLog4jLog() {
+		this.logger.debug("hello world");
+		this.logger.info("this info");
+	}
+	
+	public void testslf4jLog() {
+		this.log4j.debug("lf4jLog debug");
+	}
+}

@@ -1,0 +1,8 @@
+package com.mjd;
+
+import com.mjd.logtest.*;
+public class Main{
+	public static void main(String args[]) {
+		System.out.printf("hello world");
+	}
+}
