@@ -241,3 +241,59 @@
 2020-12-16 16:38:38,388 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava\myjava\java_server_2020\src\main\resources
 2020-12-16 16:38:38,389 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
 2020-12-16 16:38:38,391 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava\myjava\java_server_2020\src\test\resources
+2020-12-16 17:06:08,623 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-16 17:06:21,271 [Worker-13: Launching Main] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for avalon-framework:avalon-framework-api:jar:4.1.5-dev is missing, no dependency information available
+2020-12-16 17:08:35,328 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-16 18:01:27,415 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for avalon-framework:avalon-framework-api:jar:4.1.5-dev is missing, no dependency information available
+2020-12-16 18:01:27,710 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:01:27,712 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\main\resources
+2020-12-16 18:01:27,713 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:01:27,715 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\test\resources
+2020-12-16 18:01:44,679 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:01:44,680 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\main\resources
+2020-12-16 18:01:44,681 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:01:44,683 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\test\resources
+2020-12-16 18:02:42,420 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:02:42,422 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\main\resources
+2020-12-16 18:02:42,423 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:02:42,425 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\test\resources
+2020-12-16 18:04:20,345 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:04:20,347 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\main\resources
+2020-12-16 18:04:20,348 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:04:20,349 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\test\resources
+2020-12-16 18:04:40,594 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:04:40,595 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\main\resources
+2020-12-16 18:04:40,596 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:04:40,598 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\test\resources
+2020-12-16 18:04:56,426 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:04:56,427 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\main\resources
+2020-12-16 18:04:56,428 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:04:56,430 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\test\resources
+2020-12-16 18:05:04,148 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:05:04,149 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\main\resources
+2020-12-16 18:05:04,150 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:05:04,152 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\test\resources
+2020-12-16 18:13:32,831 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:13:32,834 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\main\resources
+2020-12-16 18:13:32,836 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:13:32,838 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\test\resources
+2020-12-16 18:14:13,787 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:14:13,789 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\main\resources
+2020-12-16 18:14:13,790 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:14:13,793 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\test\resources
+2020-12-16 18:16:08,898 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:16:08,900 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\main\resources
+2020-12-16 18:16:08,901 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:16:08,903 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\test\resources
+2020-12-16 18:19:05,926 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:19:05,928 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\main\resources
+2020-12-16 18:19:05,929 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:19:05,930 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\test\resources
+2020-12-16 18:19:08,345 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:19:08,347 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\main\resources
+2020-12-16 18:19:08,348 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:19:08,350 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\test\resources
+2020-12-16 18:19:33,230 [Worker-21: Launching Main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:19:33,232 [Worker-21: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\main\resources
+2020-12-16 18:19:33,232 [Worker-21: Launching Main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-16 18:19:33,234 [Worker-21: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GithubDeskhub\myjava2\java_server_2020\src\test\resources
