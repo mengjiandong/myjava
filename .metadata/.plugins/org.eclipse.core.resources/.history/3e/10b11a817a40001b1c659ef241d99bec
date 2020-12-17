@@ -1,0 +1,33 @@
+package com.mjd.utils;
+
+import org.simpleframework.xml.Root;
+import org.simpleframework.xml.Element;
+
+@Root(name ="server")
+public class XMLServer {
+	@Element(required = true)
+	private int serverId;
+	
+	@Element(required = true)
+	private int serverPort;
+	
+	@Element(required = true)
+	private int adminPort;
+	
+	@Element(required = true)
+	private String whiteIps;
+	
+	@Element(required = true)
+	private String matchUrl;
+	
+	@Element(required = true)
+	private boolean fight;
+	
+	@Element(required = true)
+	private int crossPort;
+	
+	@Element(required = true)
+	private String redisUrl;
+	
+
+}

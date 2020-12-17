@@ -1,0 +1,9 @@
+package com.mjd.jprotobuf;
+
+public class ReqAccountLogin {
+	@Protobuf(order = 1, required = true)
+	public long accountId;
+
+	
+	
+}

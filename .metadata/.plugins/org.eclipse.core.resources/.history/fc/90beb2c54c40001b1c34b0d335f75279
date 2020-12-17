@@ -1,0 +1,5 @@
+package com.mjd.jprotobuf;
+
+public class ReqAccountLogin {
+
+}

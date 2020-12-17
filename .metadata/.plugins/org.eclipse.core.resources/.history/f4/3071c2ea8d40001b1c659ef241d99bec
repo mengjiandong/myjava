@@ -1,0 +1,19 @@
+package com.mjd.database;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import java.sql.*;
+public class JDBCWrapper {
+	Logger logger = LoggerFactory.getLogger(JDBCWrapper.class);
+	
+	public void testJDBCWrapper() {
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+		} catch(Exception e) {
+			logger.info(e.getMessage());
+			return;
+		}
+
+		
+	}
+}

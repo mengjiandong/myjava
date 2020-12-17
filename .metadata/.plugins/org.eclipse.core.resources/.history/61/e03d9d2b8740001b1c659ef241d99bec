@@ -1,0 +1,18 @@
+package com.mjd.utils;
+
+import org.apache.commons.codec.digest.DigestUtils;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+public class EncryptWrapper {
+	private Logger logger = LoggerFactory.getLogger(EncryptWrapper.class);
+	public void testEncryptWrapper() {
+		// MD5
+		String str = "123456pwd||523453452523452454525jl4j5l4j5l;245l;k4kl;54kl;524l;52l4k52l34j2l;34j25;l34k5j;45j;5;l34";
+		String md5Str = DigestUtils.md5Hex(str);
+		logger.info(md5Str);
+		
+		
+	}
+}

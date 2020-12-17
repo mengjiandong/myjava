@@ -1,0 +1,11 @@
+package com.mjd.utils;
+
+import org.simpleframework.xml.Root;
+import org.simpleframework.xml.Element;
+
+@Root(name ="server")
+public class XMLServer {
+	@Element(name = "serverId")
+	public int serverId;
+
+}

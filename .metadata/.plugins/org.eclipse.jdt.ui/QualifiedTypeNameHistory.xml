@@ -3,5 +3,19 @@
 <fullyQualifiedTypeName name="com.mjd.logtest.testlogger"/>
 <fullyQualifiedTypeName name="org.slf4j.impl.Log4jLoggerFactory"/>
 <fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+<fullyQualifiedTypeName name="com.mjd.netty.NettySocketServer"/>
+<fullyQualifiedTypeName name="com.mjd.jprotobuf.JProtoBufWrapper"/>
+<fullyQualifiedTypeName name="com.baidu.bjf.remoting.protobuf.annotation.Protobuf"/>
+<fullyQualifiedTypeName name="com.mjd.jprotobuf.ReqAccountLogin"/>
+<fullyQualifiedTypeName name="com.mjd.utils.XMLUtils"/>
+<fullyQualifiedTypeName name="com.mjd.utils.XMLServer"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.util.Timer"/>
 <fullyQualifiedTypeName name="org.slf4j.Logger"/>
+<fullyQualifiedTypeName name="org.apache.commons.codec.digest.DigestUtils"/>
+<fullyQualifiedTypeName name="com.mjd.utils.EncryptWrapper"/>
+<fullyQualifiedTypeName name="org.apache.commons.codec.binary.Base64"/>
+<fullyQualifiedTypeName name="com.mjd.database.JDBCWrapper"/>
 </qualifiedTypeNameHistroy>

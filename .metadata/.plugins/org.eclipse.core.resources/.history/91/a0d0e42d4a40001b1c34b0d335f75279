@@ -1,0 +1,12 @@
+package com.mjd.jprotobuf;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+public class JProtoBufWrapper{
+	
+	Logger logger = LoggerFactory.getLogger(getClass())
+	public void testJProtoBuf() {
+		
+	}
+}

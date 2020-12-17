@@ -1,0 +1,7 @@
+package com.mjd.jprotobuf;
+
+public class JProtoBufWrapper{
+	public JProtoBufTest() {
+		
+	}
+}
